@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@lukebergmann/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lotide directory used for easy to reference functions inspired by a Lodash example. This library was published for learning purposes. It is NOT intended for use in production-grade software.",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/lukebergmann/lotide.git"
   },
-  "author": "",
+  "author": "Luke Bergmann",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lukebergmann/lotide/issues"
